@@ -1,0 +1,38 @@
+.logotipo {
+    height: 300px;
+}
+
+.logotipoge {
+    height: 100px;
+}
+.imagemflamengo {
+    height: 230px;
+}
+.imagemjogadores {
+    height: 230px;
+}
+main{
+    background-color: white;
+    height: 1100px;
+    color: black;
+}
+footer {
+    background-color: rgb(175, 23, 23);
+    height: 420px;
+    color: rgb(252, 247, 247);
+}
+header {
+   background-color: rgb(175, 23, 23);
+    height: 300px;
+    color: rgb(252, 247, 247); 
+}
+
+.Facebook-logo {
+  height: 30px;
+}
+.Instagram-logo {
+  height: 30px;
+}
+.Twitter-logo {
+  height: 30px;
+}
